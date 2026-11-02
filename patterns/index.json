@@ -1,0 +1,1674 @@
+[
+  {
+    "name": "demonoid c512 hashlife friendly",
+    "file": "patterns/HashLife/Constructions/demonoid-c512-hashlife-friendly.mc",
+    "folder": "HashLife/Constructions",
+    "rule": "B3/S23",
+    "source": "HashLife/Constructions/demonoid-c512-hashlife-friendly.mc",
+    "bytes": 239445
+  },
+  {
+    "name": "linear propagator p237228340",
+    "file": "patterns/HashLife/Constructions/linear-propagator-p237228340.mc",
+    "folder": "HashLife/Constructions",
+    "rule": "B3/S23",
+    "source": "HashLife/Constructions/linear-propagator-p237228340.mc",
+    "bytes": 91482
+  },
+  {
+    "name": "loafer gun p8388608 linear",
+    "file": "patterns/HashLife/Constructions/loafer-gun-p8388608-linear.mc",
+    "folder": "HashLife/Constructions",
+    "rule": "B3/S23",
+    "source": "HashLife/Constructions/loafer-gun-p8388608-linear.mc",
+    "bytes": 100231
+  },
+  {
+    "name": "logarithmic width",
+    "file": "patterns/HashLife/Constructions/logarithmic-width.mc",
+    "folder": "HashLife/Constructions",
+    "rule": "B3/S23",
+    "source": "HashLife/Constructions/logarithmic-width.mc",
+    "bytes": 24289
+  },
+  {
+    "name": "triple Snark wick extruder",
+    "file": "patterns/HashLife/Constructions/triple-Snark-wick-extruder.rle",
+    "folder": "HashLife/Constructions",
+    "rule": "B3/S23",
+    "source": "HashLife/Constructions/triple-Snark-wick-extruder.rle",
+    "bytes": 60665
+  },
+  {
+    "name": "broken lines",
+    "file": "patterns/HashLife/Eventful/broken-lines.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/broken-lines.mc",
+    "bytes": 8874
+  },
+  {
+    "name": "catacryst",
+    "file": "patterns/HashLife/Eventful/catacryst.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/catacryst.mc",
+    "bytes": 1311
+  },
+  {
+    "name": "gotts dots",
+    "file": "patterns/HashLife/Eventful/gotts-dots.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/gotts-dots.mc",
+    "bytes": 889
+  },
+  {
+    "name": "hashlife oddity1",
+    "file": "patterns/HashLife/Eventful/hashlife-oddity1.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/hashlife-oddity1.mc",
+    "bytes": 537
+  },
+  {
+    "name": "hashlife oddity2",
+    "file": "patterns/HashLife/Eventful/hashlife-oddity2.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/hashlife-oddity2.mc",
+    "bytes": 513
+  },
+  {
+    "name": "jagged",
+    "file": "patterns/HashLife/Eventful/jagged.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/jagged.mc",
+    "bytes": 3384
+  },
+  {
+    "name": "jagged2",
+    "file": "patterns/HashLife/Eventful/jagged2.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/jagged2.mc",
+    "bytes": 8439
+  },
+  {
+    "name": "metacatacryst",
+    "file": "patterns/HashLife/Eventful/metacatacryst.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/metacatacryst.mc",
+    "bytes": 1222
+  },
+  {
+    "name": "mosquito5",
+    "file": "patterns/HashLife/Eventful/mosquito5.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/mosquito5.mc",
+    "bytes": 1197
+  },
+  {
+    "name": "nick gotts 1",
+    "file": "patterns/HashLife/Eventful/nick-gotts-1.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/nick-gotts-1.mc",
+    "bytes": 498
+  },
+  {
+    "name": "nick gotts 2",
+    "file": "patterns/HashLife/Eventful/nick-gotts-2.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/nick-gotts-2.mc",
+    "bytes": 565
+  },
+  {
+    "name": "puzzle",
+    "file": "patterns/HashLife/Eventful/puzzle.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/puzzle.mc",
+    "bytes": 814
+  },
+  {
+    "name": "roth",
+    "file": "patterns/HashLife/Eventful/roth.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/roth.mc",
+    "bytes": 1531
+  },
+  {
+    "name": "ruler",
+    "file": "patterns/HashLife/Eventful/ruler.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/ruler.mc",
+    "bytes": 4723
+  },
+  {
+    "name": "totalperiodic",
+    "file": "patterns/HashLife/Eventful/totalperiodic.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/totalperiodic.mc",
+    "bytes": 1585
+  },
+  {
+    "name": "unlimited novelty",
+    "file": "patterns/HashLife/Eventful/unlimited-novelty.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/unlimited-novelty.mc",
+    "bytes": 731
+  },
+  {
+    "name": "wedge grow",
+    "file": "patterns/HashLife/Eventful/wedge-grow.mc",
+    "folder": "HashLife/Eventful",
+    "rule": "B3/S23",
+    "source": "HashLife/Eventful/wedge-grow.mc",
+    "bytes": 1203
+  },
+  {
+    "name": "hexadecimal",
+    "file": "patterns/HashLife/Metacell/hexadecimal.mc",
+    "folder": "HashLife/Metacell",
+    "rule": "B3/S23",
+    "source": "HashLife/Metacell/hexadecimal.mc",
+    "bytes": 119433
+  },
+  {
+    "name": "metapixel galaxy",
+    "file": "patterns/HashLife/Metacell/metapixel-galaxy.mc",
+    "folder": "HashLife/Metacell",
+    "rule": "B3/S23",
+    "source": "HashLife/Metacell/metapixel-galaxy.mc",
+    "bytes": 122585
+  },
+  {
+    "name": "metapixel p216 gun",
+    "file": "patterns/HashLife/Metacell/metapixel-p216-gun.mc",
+    "folder": "HashLife/Metacell",
+    "rule": "B3/S23",
+    "source": "HashLife/Metacell/metapixel-p216-gun.mc",
+    "bytes": 142427
+  },
+  {
+    "name": "metapixel parity64",
+    "file": "patterns/HashLife/Metacell/metapixel-parity64.mc",
+    "folder": "HashLife/Metacell",
+    "rule": "B3/S23",
+    "source": "HashLife/Metacell/metapixel-parity64.mc",
+    "bytes": 123496
+  },
+  {
+    "name": "20 cell quadratic growth",
+    "file": "patterns/Life/Breeders/20-cell-quadratic-growth.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/20-cell-quadratic-growth.rle",
+    "bytes": 763
+  },
+  {
+    "name": "breeder",
+    "file": "patterns/Life/Breeders/breeder.lif",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/breeder.lif",
+    "bytes": 15970
+  },
+  {
+    "name": "c4 diag switch engines",
+    "file": "patterns/Life/Breeders/c4-diag-switch-engines.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/c4-diag-switch-engines.rle",
+    "bytes": 2441
+  },
+  {
+    "name": "LWSS breeder",
+    "file": "patterns/Life/Breeders/LWSS-breeder.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/LWSS-breeder.rle",
+    "bytes": 40711
+  },
+  {
+    "name": "one cell thick quadratic growth 2596x1",
+    "file": "patterns/Life/Breeders/one-cell-thick-quadratic-growth-2596x1.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/one-cell-thick-quadratic-growth-2596x1.rle",
+    "bytes": 706
+  },
+  {
+    "name": "p100 H channel breeder",
+    "file": "patterns/Life/Breeders/p100-H-channel-breeder.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/p100-H-channel-breeder.rle",
+    "bytes": 8869
+  },
+  {
+    "name": "p90 rake factory",
+    "file": "patterns/Life/Breeders/p90-rake-factory.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/p90-rake-factory.rle",
+    "bytes": 5501
+  },
+  {
+    "name": "pi blink breeder1",
+    "file": "patterns/Life/Breeders/pi-blink-breeder1.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/pi-blink-breeder1.rle",
+    "bytes": 11373
+  },
+  {
+    "name": "pi blink breeder2",
+    "file": "patterns/Life/Breeders/pi-blink-breeder2.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/pi-blink-breeder2.rle",
+    "bytes": 12266
+  },
+  {
+    "name": "quartermax",
+    "file": "patterns/Life/Breeders/quartermax.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/quartermax.rle",
+    "bytes": 2176
+  },
+  {
+    "name": "rake breeder",
+    "file": "patterns/Life/Breeders/rake-breeder.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/rake-breeder.rle",
+    "bytes": 8061
+  },
+  {
+    "name": "slide breeder",
+    "file": "patterns/Life/Breeders/slide-breeder.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/slide-breeder.rle",
+    "bytes": 67663
+  },
+  {
+    "name": "spacefiller",
+    "file": "patterns/Life/Breeders/spacefiller.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/spacefiller.rle",
+    "bytes": 1865
+  },
+  {
+    "name": "switch engine breeder",
+    "file": "patterns/Life/Breeders/switch-engine-breeder.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/switch-engine-breeder.rle",
+    "bytes": 1980
+  },
+  {
+    "name": "switch engine breeder MR",
+    "file": "patterns/Life/Breeders/switch-engine-breeder-MR.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/switch-engine-breeder-MR.rle",
+    "bytes": 1569
+  },
+  {
+    "name": "switch engine ping pong",
+    "file": "patterns/Life/Breeders/switch-engine-ping-pong.rle",
+    "folder": "Life/Breeders",
+    "rule": "B3/S23",
+    "source": "Life/Breeders/switch-engine-ping-pong.rle",
+    "bytes": 627
+  },
+  {
+    "name": "2c5 spaceship gun p416",
+    "file": "patterns/Life/Guns/2c5-spaceship-gun-p416.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/2c5-spaceship-gun-p416.rle",
+    "bytes": 71779
+  },
+  {
+    "name": "2c5 spaceship gun p690",
+    "file": "patterns/Life/Guns/2c5-spaceship-gun-p690.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/2c5-spaceship-gun-p690.rle",
+    "bytes": 32657
+  },
+  {
+    "name": "7 in a row Cordership V gun",
+    "file": "patterns/Life/Guns/7-in-a-row-Cordership-V-gun.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/7-in-a-row-Cordership-V-gun.rle",
+    "bytes": 89358
+  },
+  {
+    "name": "Cordership gun p784",
+    "file": "patterns/Life/Guns/Cordership-gun-p784.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/Cordership-gun-p784.rle",
+    "bytes": 68056
+  },
+  {
+    "name": "golly ticker",
+    "file": "patterns/Life/Guns/golly-ticker.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/golly-ticker.rle",
+    "bytes": 15855
+  },
+  {
+    "name": "gun p165mwss",
+    "file": "patterns/Life/Guns/gun-p165mwss.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/gun-p165mwss.rle",
+    "bytes": 1837
+  },
+  {
+    "name": "infinite Corderships gun",
+    "file": "patterns/Life/Guns/infinite-Corderships-gun.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/infinite-Corderships-gun.rle",
+    "bytes": 35816
+  },
+  {
+    "name": "loafer gun p210",
+    "file": "patterns/Life/Guns/loafer-gun-p210.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/loafer-gun-p210.rle",
+    "bytes": 4578
+  },
+  {
+    "name": "p148 B29 gun",
+    "file": "patterns/Life/Guns/p148-B29-gun.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/p148-B29-gun.rle",
+    "bytes": 38505
+  },
+  {
+    "name": "p59 gun with Snark reflectors",
+    "file": "patterns/Life/Guns/p59-gun-with-Snark-reflectors.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/p59-gun-with-Snark-reflectors.rle",
+    "bytes": 7372
+  },
+  {
+    "name": "p690 PT Cordership gun",
+    "file": "patterns/Life/Guns/p690-PT-Cordership-gun.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/p690-PT-Cordership-gun.rle",
+    "bytes": 6799
+  },
+  {
+    "name": "period 52 glider gun",
+    "file": "patterns/Life/Guns/period-52-glider-gun.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/period-52-glider-gun.rle",
+    "bytes": 2564
+  },
+  {
+    "name": "pseudo p34 gun",
+    "file": "patterns/Life/Guns/pseudo-p34-gun.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/pseudo-p34-gun.rle",
+    "bytes": 7344
+  },
+  {
+    "name": "vacuum cleaner",
+    "file": "patterns/Life/Guns/vacuum-cleaner.rle",
+    "folder": "Life/Guns",
+    "rule": "B3/S23",
+    "source": "Life/Guns/vacuum-cleaner.rle",
+    "bytes": 1323
+  },
+  {
+    "name": "52513m",
+    "file": "patterns/Life/Methuselahs/52513m.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/52513m.rle",
+    "bytes": 802
+  },
+  {
+    "name": "acorn",
+    "file": "patterns/Life/Methuselahs/acorn.lif",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/acorn.lif",
+    "bytes": 136
+  },
+  {
+    "name": "ark1",
+    "file": "patterns/Life/Methuselahs/ark1.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/ark1.rle",
+    "bytes": 151
+  },
+  {
+    "name": "ark2",
+    "file": "patterns/Life/Methuselahs/ark2.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/ark2.rle",
+    "bytes": 164
+  },
+  {
+    "name": "blom",
+    "file": "patterns/Life/Methuselahs/blom.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/blom.rle",
+    "bytes": 233
+  },
+  {
+    "name": "die 1120271",
+    "file": "patterns/Life/Methuselahs/die-1120271.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/die-1120271.rle",
+    "bytes": 1063
+  },
+  {
+    "name": "iwona",
+    "file": "patterns/Life/Methuselahs/iwona.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/iwona.rle",
+    "bytes": 287
+  },
+  {
+    "name": "justyna",
+    "file": "patterns/Life/Methuselahs/justyna.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/justyna.rle",
+    "bytes": 290
+  },
+  {
+    "name": "lidka predecessor",
+    "file": "patterns/Life/Methuselahs/lidka-predecessor.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/lidka-predecessor.rle",
+    "bytes": 328
+  },
+  {
+    "name": "natural LWSS",
+    "file": "patterns/Life/Methuselahs/natural-LWSS.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/natural-LWSS.rle",
+    "bytes": 348
+  },
+  {
+    "name": "rabbits",
+    "file": "patterns/Life/Methuselahs/rabbits.lif",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/rabbits.lif",
+    "bytes": 396
+  },
+  {
+    "name": "rabbits relation 17423",
+    "file": "patterns/Life/Methuselahs/rabbits-relation-17423.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/rabbits-relation-17423.rle",
+    "bytes": 328
+  },
+  {
+    "name": "rabbits relation 17465",
+    "file": "patterns/Life/Methuselahs/rabbits-relation-17465.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/rabbits-relation-17465.rle",
+    "bytes": 326
+  },
+  {
+    "name": "temp pulsars big s",
+    "file": "patterns/Life/Methuselahs/temp-pulsars-big-s.rle",
+    "folder": "Life/Methuselahs",
+    "rule": "B3/S23",
+    "source": "Life/Methuselahs/temp-pulsars-big-s.rle",
+    "bytes": 502
+  },
+  {
+    "name": "blockstacker",
+    "file": "patterns/Life/Miscellaneous/blockstacker.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/blockstacker.rle",
+    "bytes": 21961
+  },
+  {
+    "name": "cambrian explosion",
+    "file": "patterns/Life/Miscellaneous/cambrian-explosion.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/cambrian-explosion.rle",
+    "bytes": 89471
+  },
+  {
+    "name": "conga line switch engine extender",
+    "file": "patterns/Life/Miscellaneous/conga-line-switch-engine-extender.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/conga-line-switch-engine-extender.rle",
+    "bytes": 7966
+  },
+  {
+    "name": "diagfuse1",
+    "file": "patterns/Life/Miscellaneous/diagfuse1.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/diagfuse1.rle",
+    "bytes": 1993
+  },
+  {
+    "name": "die658",
+    "file": "patterns/Life/Miscellaneous/die658.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/die658.rle",
+    "bytes": 811
+  },
+  {
+    "name": "elbow ladders",
+    "file": "patterns/Life/Miscellaneous/elbow-ladders.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/elbow-ladders.rle",
+    "bytes": 6257
+  },
+  {
+    "name": "fermat primes",
+    "file": "patterns/Life/Miscellaneous/fermat-primes.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/fermat-primes.rle",
+    "bytes": 27650
+  },
+  {
+    "name": "four primers",
+    "file": "patterns/Life/Miscellaneous/four-primers.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/four-primers.rle",
+    "bytes": 52636
+  },
+  {
+    "name": "infinity hotel0",
+    "file": "patterns/Life/Miscellaneous/infinity-hotel0.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/infinity-hotel0.rle",
+    "bytes": 3905
+  },
+  {
+    "name": "infinity hotel1",
+    "file": "patterns/Life/Miscellaneous/infinity-hotel1.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/infinity-hotel1.rle",
+    "bytes": 6596
+  },
+  {
+    "name": "infinity hotel2",
+    "file": "patterns/Life/Miscellaneous/infinity-hotel2.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/infinity-hotel2.rle",
+    "bytes": 4840
+  },
+  {
+    "name": "infinity hotel3",
+    "file": "patterns/Life/Miscellaneous/infinity-hotel3.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/infinity-hotel3.rle",
+    "bytes": 9099
+  },
+  {
+    "name": "lightspeed",
+    "file": "patterns/Life/Miscellaneous/lightspeed.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/lightspeed.rle",
+    "bytes": 3816
+  },
+  {
+    "name": "loggrow corder",
+    "file": "patterns/Life/Miscellaneous/loggrow-corder.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/loggrow-corder.rle",
+    "bytes": 2218
+  },
+  {
+    "name": "ordovician radiation",
+    "file": "patterns/Life/Miscellaneous/ordovician-radiation.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/ordovician-radiation.rle",
+    "bytes": 148498
+  },
+  {
+    "name": "sawtooth177",
+    "file": "patterns/Life/Miscellaneous/sawtooth177.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/sawtooth177.rle",
+    "bytes": 1005
+  },
+  {
+    "name": "three halves growth",
+    "file": "patterns/Life/Miscellaneous/three-halves-growth.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/three-halves-growth.rle",
+    "bytes": 10032
+  },
+  {
+    "name": "tubstretch c124b",
+    "file": "patterns/Life/Miscellaneous/tubstretch-c124b.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/tubstretch-c124b.rle",
+    "bytes": 6717
+  },
+  {
+    "name": "twinprimes",
+    "file": "patterns/Life/Miscellaneous/twinprimes.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/twinprimes.rle",
+    "bytes": 8078
+  },
+  {
+    "name": "wicks DRH 2002",
+    "file": "patterns/Life/Miscellaneous/wicks-DRH-2002.rle",
+    "folder": "Life/Miscellaneous",
+    "rule": "B3/S23",
+    "source": "Life/Miscellaneous/wicks-DRH-2002.rle",
+    "bytes": 47552
+  },
+  {
+    "name": "billiard table",
+    "file": "patterns/Life/Oscillators/billiard-table.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/billiard-table.rle",
+    "bytes": 12092
+  },
+  {
+    "name": "extensible low period",
+    "file": "patterns/Life/Oscillators/extensible-low-period.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/extensible-low-period.rle",
+    "bytes": 8273
+  },
+  {
+    "name": "glider stream crystal",
+    "file": "patterns/Life/Oscillators/glider-stream-crystal.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/glider-stream-crystal.rle",
+    "bytes": 4611
+  },
+  {
+    "name": "honey farm hasslers",
+    "file": "patterns/Life/Oscillators/honey-farm-hasslers.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/honey-farm-hasslers.rle",
+    "bytes": 56373
+  },
+  {
+    "name": "low period",
+    "file": "patterns/Life/Oscillators/low-period.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/low-period.rle",
+    "bytes": 17926
+  },
+  {
+    "name": "oscillator stamp collection 31January2023",
+    "file": "patterns/Life/Oscillators/oscillator-stamp-collection-31January2023.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/oscillator-stamp-collection-31January2023.rle",
+    "bytes": 804117
+  },
+  {
+    "name": "p103079214841",
+    "file": "patterns/Life/Oscillators/p103079214841.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/p103079214841.rle",
+    "bytes": 5451
+  },
+  {
+    "name": "p138",
+    "file": "patterns/Life/Oscillators/p138.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/p138.rle",
+    "bytes": 2809
+  },
+  {
+    "name": "phase shift",
+    "file": "patterns/Life/Oscillators/phase-shift.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/phase-shift.rle",
+    "bytes": 27102
+  },
+  {
+    "name": "queen bee turn",
+    "file": "patterns/Life/Oscillators/queen-bee-turn.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/queen-bee-turn.rle",
+    "bytes": 4622
+  },
+  {
+    "name": "traffic light hasslers",
+    "file": "patterns/Life/Oscillators/traffic-light-hasslers.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/traffic-light-hasslers.rle",
+    "bytes": 49766
+  },
+  {
+    "name": "unique high period",
+    "file": "patterns/Life/Oscillators/unique-high-period.rle",
+    "folder": "Life/Oscillators",
+    "rule": "B3/S23",
+    "source": "Life/Oscillators/unique-high-period.rle",
+    "bytes": 5748
+  },
+  {
+    "name": "c4 diagonal puffer",
+    "file": "patterns/Life/Puffers/c4-diagonal-puffer.rle",
+    "folder": "Life/Puffers",
+    "rule": "B3/S23",
+    "source": "Life/Puffers/c4-diagonal-puffer.rle",
+    "bytes": 7614
+  },
+  {
+    "name": "line puffer superstable",
+    "file": "patterns/Life/Puffers/line-puffer-superstable.rle",
+    "folder": "Life/Puffers",
+    "rule": "B3/S23",
+    "source": "Life/Puffers/line-puffer-superstable.rle",
+    "bytes": 3160
+  },
+  {
+    "name": "line puffer unstable",
+    "file": "patterns/Life/Puffers/line-puffer-unstable.rle",
+    "folder": "Life/Puffers",
+    "rule": "B3/S23",
+    "source": "Life/Puffers/line-puffer-unstable.rle",
+    "bytes": 3014
+  },
+  {
+    "name": "millionaire puffer",
+    "file": "patterns/Life/Puffers/millionaire-puffer.rle",
+    "folder": "Life/Puffers",
+    "rule": "B3/S23",
+    "source": "Life/Puffers/millionaire-puffer.rle",
+    "bytes": 498
+  },
+  {
+    "name": "p100 H track puffer",
+    "file": "patterns/Life/Puffers/p100-H-track-puffer.rle",
+    "folder": "Life/Puffers",
+    "rule": "B3/S23",
+    "source": "Life/Puffers/p100-H-track-puffer.rle",
+    "bytes": 10480
+  },
+  {
+    "name": "pi fuse puffer",
+    "file": "patterns/Life/Puffers/pi-fuse-puffer.rle",
+    "folder": "Life/Puffers",
+    "rule": "B3/S23",
+    "source": "Life/Puffers/pi-fuse-puffer.rle",
+    "bytes": 1358
+  },
+  {
+    "name": "puffer 2c5",
+    "file": "patterns/Life/Puffers/puffer-2c5.rle",
+    "folder": "Life/Puffers",
+    "rule": "B3/S23",
+    "source": "Life/Puffers/puffer-2c5.rle",
+    "bytes": 1033
+  },
+  {
+    "name": "puffer train",
+    "file": "patterns/Life/Puffers/puffer-train.rle",
+    "folder": "Life/Puffers",
+    "rule": "B3/S23",
+    "source": "Life/Puffers/puffer-train.rle",
+    "bytes": 489
+  },
+  {
+    "name": "zigzag wickstretcher",
+    "file": "patterns/Life/Puffers/zigzag-wickstretcher.rle",
+    "folder": "Life/Puffers",
+    "rule": "B3/S23",
+    "source": "Life/Puffers/zigzag-wickstretcher.rle",
+    "bytes": 28219
+  },
+  {
+    "name": "2c5 engineless rake p185",
+    "file": "patterns/Life/Rakes/2c5-engineless-rake-p185.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/2c5-engineless-rake-p185.rle",
+    "bytes": 6418
+  },
+  {
+    "name": "2c5 spaceship rake p240",
+    "file": "patterns/Life/Rakes/2c5-spaceship-rake-p240.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/2c5-spaceship-rake-p240.rle",
+    "bytes": 29134
+  },
+  {
+    "name": "basic rakes",
+    "file": "patterns/Life/Rakes/basic-rakes.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/basic-rakes.rle",
+    "bytes": 2457
+  },
+  {
+    "name": "c2 Cordership rake",
+    "file": "patterns/Life/Rakes/c2-Cordership-rake.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/c2-Cordership-rake.rle",
+    "bytes": 9010
+  },
+  {
+    "name": "c3 forward rake p159",
+    "file": "patterns/Life/Rakes/c3-forward-rake-p159.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/c3-forward-rake-p159.rle",
+    "bytes": 14452
+  },
+  {
+    "name": "c4 sideways rake",
+    "file": "patterns/Life/Rakes/c4-sideways-rake.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/c4-sideways-rake.rle",
+    "bytes": 46874
+  },
+  {
+    "name": "c5 adjustable rake",
+    "file": "patterns/Life/Rakes/c5-adjustable-rake.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/c5-adjustable-rake.rle",
+    "bytes": 41240
+  },
+  {
+    "name": "forward LWSS rake p90",
+    "file": "patterns/Life/Rakes/forward-LWSS-rake-p90.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/forward-LWSS-rake-p90.rle",
+    "bytes": 17009
+  },
+  {
+    "name": "p270 frothing puffer rake",
+    "file": "patterns/Life/Rakes/p270-frothing-puffer-rake.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/p270-frothing-puffer-rake.rle",
+    "bytes": 11150
+  },
+  {
+    "name": "spider rake",
+    "file": "patterns/Life/Rakes/spider-rake.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/spider-rake.rle",
+    "bytes": 4159
+  },
+  {
+    "name": "weekender distaff",
+    "file": "patterns/Life/Rakes/weekender-distaff.rle",
+    "folder": "Life/Rakes",
+    "rule": "B3/S23",
+    "source": "Life/Rakes/weekender-distaff.rle",
+    "bytes": 16059
+  },
+  {
+    "name": "advancer",
+    "file": "patterns/Life/Signal-Circuitry/advancer.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/advancer.rle",
+    "bytes": 1218
+  },
+  {
+    "name": "chase the glider",
+    "file": "patterns/Life/Signal-Circuitry/chase-the-glider.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/chase-the-glider.rle",
+    "bytes": 43844
+  },
+  {
+    "name": "constructor memory loop",
+    "file": "patterns/Life/Signal-Circuitry/constructor-memory-loop.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/constructor-memory-loop.rle",
+    "bytes": 47114
+  },
+  {
+    "name": "constructor memory tape",
+    "file": "patterns/Life/Signal-Circuitry/constructor-memory-tape.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/constructor-memory-tape.rle",
+    "bytes": 47001
+  },
+  {
+    "name": "heisenblinker 30",
+    "file": "patterns/Life/Signal-Circuitry/heisenblinker-30.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/heisenblinker-30.rle",
+    "bytes": 644
+  },
+  {
+    "name": "heisenburp 30",
+    "file": "patterns/Life/Signal-Circuitry/heisenburp-30.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/heisenburp-30.rle",
+    "bytes": 2108
+  },
+  {
+    "name": "heisenburp 46",
+    "file": "patterns/Life/Signal-Circuitry/heisenburp-46.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/heisenburp-46.rle",
+    "bytes": 2230
+  },
+  {
+    "name": "heisenburp 46 natural",
+    "file": "patterns/Life/Signal-Circuitry/heisenburp-46-natural.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/heisenburp-46-natural.rle",
+    "bytes": 437
+  },
+  {
+    "name": "high bandwidth telegraph",
+    "file": "patterns/Life/Signal-Circuitry/high-bandwidth-telegraph.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/high-bandwidth-telegraph.rle",
+    "bytes": 356191
+  },
+  {
+    "name": "loafer mwss signal loop",
+    "file": "patterns/Life/Signal-Circuitry/loafer-mwss-signal-loop.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/loafer-mwss-signal-loop.rle",
+    "bytes": 15184
+  },
+  {
+    "name": "p30 racetrack",
+    "file": "patterns/Life/Signal-Circuitry/p30-racetrack.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/p30-racetrack.rle",
+    "bytes": 4759
+  },
+  {
+    "name": "p46racetrack",
+    "file": "patterns/Life/Signal-Circuitry/p46racetrack.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/p46racetrack.rle",
+    "bytes": 10609
+  },
+  {
+    "name": "reflectors",
+    "file": "patterns/Life/Signal-Circuitry/reflectors.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/reflectors.rle",
+    "bytes": 17132
+  },
+  {
+    "name": "reflectors2",
+    "file": "patterns/Life/Signal-Circuitry/reflectors2.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/reflectors2.rle",
+    "bytes": 12688
+  },
+  {
+    "name": "signal turns and fizzles",
+    "file": "patterns/Life/Signal-Circuitry/signal-turns-and-fizzles.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/signal-turns-and-fizzles.rle",
+    "bytes": 25964
+  },
+  {
+    "name": "single channel spiral growth",
+    "file": "patterns/Life/Signal-Circuitry/single-channel-spiral-growth.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/single-channel-spiral-growth.rle",
+    "bytes": 59860
+  },
+  {
+    "name": "stargate",
+    "file": "patterns/Life/Signal-Circuitry/stargate.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/stargate.rle",
+    "bytes": 3745
+  },
+  {
+    "name": "traffic lights extruder",
+    "file": "patterns/Life/Signal-Circuitry/traffic-lights-extruder.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/traffic-lights-extruder.rle",
+    "bytes": 60220
+  },
+  {
+    "name": "Turing Machine 3 state",
+    "file": "patterns/Life/Signal-Circuitry/Turing-Machine-3-state.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/Turing-Machine-3-state.rle",
+    "bytes": 98008
+  },
+  {
+    "name": "Unit Life Cell 512x512",
+    "file": "patterns/Life/Signal-Circuitry/Unit-Life-Cell-512x512.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/Unit-Life-Cell-512x512.rle",
+    "bytes": 14078
+  },
+  {
+    "name": "Unit Life Deep Cell",
+    "file": "patterns/Life/Signal-Circuitry/Unit-Life-Deep-Cell.rle",
+    "folder": "Life/Signal-Circuitry",
+    "rule": "B3/S23",
+    "source": "Life/Signal-Circuitry/Unit-Life-Deep-Cell.rle",
+    "bytes": 16529
+  },
+  {
+    "name": "2c5 orthogonal",
+    "file": "patterns/Life/Spaceships/2c5-orthogonal.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/2c5-orthogonal.rle",
+    "bytes": 75085
+  },
+  {
+    "name": "adjustable Corder lineship",
+    "file": "patterns/Life/Spaceships/adjustable-Corder-lineship.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/adjustable-Corder-lineship.rle",
+    "bytes": 13398
+  },
+  {
+    "name": "c2 orthogonal",
+    "file": "patterns/Life/Spaceships/c2-orthogonal.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/c2-orthogonal.rle",
+    "bytes": 14257
+  },
+  {
+    "name": "c3 orthogonal",
+    "file": "patterns/Life/Spaceships/c3-orthogonal.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/c3-orthogonal.rle",
+    "bytes": 27587
+  },
+  {
+    "name": "c4 diagonal",
+    "file": "patterns/Life/Spaceships/c4-diagonal.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/c4-diagonal.rle",
+    "bytes": 101879
+  },
+  {
+    "name": "c4 orthogonal",
+    "file": "patterns/Life/Spaceships/c4-orthogonal.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/c4-orthogonal.rle",
+    "bytes": 66067
+  },
+  {
+    "name": "Corder lineship",
+    "file": "patterns/Life/Spaceships/Corder-lineship.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/Corder-lineship.rle",
+    "bytes": 19758
+  },
+  {
+    "name": "Cordership boat burner",
+    "file": "patterns/Life/Spaceships/Cordership-boat-burner.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/Cordership-boat-burner.rle",
+    "bytes": 9042
+  },
+  {
+    "name": "Cordership LWSS freeze tag",
+    "file": "patterns/Life/Spaceships/Cordership-LWSS-freeze-tag.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/Cordership-LWSS-freeze-tag.rle",
+    "bytes": 18237
+  },
+  {
+    "name": "corderships",
+    "file": "patterns/Life/Spaceships/corderships.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/corderships.rle",
+    "bytes": 4240
+  },
+  {
+    "name": "diagonal",
+    "file": "patterns/Life/Spaceships/diagonal.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/diagonal.rle",
+    "bytes": 2961
+  },
+  {
+    "name": "orthogonal",
+    "file": "patterns/Life/Spaceships/orthogonal.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/orthogonal.rle",
+    "bytes": 2518
+  },
+  {
+    "name": "short thin",
+    "file": "patterns/Life/Spaceships/short-thin.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/short-thin.rle",
+    "bytes": 7646
+  },
+  {
+    "name": "smallest low period",
+    "file": "patterns/Life/Spaceships/smallest-low-period.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/smallest-low-period.rle",
+    "bytes": 9630
+  },
+  {
+    "name": "spaceship types",
+    "file": "patterns/Life/Spaceships/spaceship-types.rle",
+    "folder": "Life/Spaceships",
+    "rule": "B3/S23",
+    "source": "Life/Spaceships/spaceship-types.rle",
+    "bytes": 7115
+  },
+  {
+    "name": "1998 eater stamp collection",
+    "file": "patterns/Life/Still-Lifes/1998-eater-stamp-collection.rle",
+    "folder": "Life/Still-Lifes",
+    "rule": "B3/S23",
+    "source": "Life/Still-Lifes/1998-eater-stamp-collection.rle",
+    "bytes": 13553
+  },
+  {
+    "name": "eaters",
+    "file": "patterns/Life/Still-Lifes/eaters.rle",
+    "folder": "Life/Still-Lifes",
+    "rule": "B3/S23",
+    "source": "Life/Still-Lifes/eaters.rle",
+    "bytes": 2552
+  },
+  {
+    "name": "eaters misc",
+    "file": "patterns/Life/Still-Lifes/eaters-misc.rle",
+    "folder": "Life/Still-Lifes",
+    "rule": "B3/S23",
+    "source": "Life/Still-Lifes/eaters-misc.rle",
+    "bytes": 989
+  },
+  {
+    "name": "random",
+    "file": "patterns/Life/Still-Lifes/random.rle",
+    "folder": "Life/Still-Lifes",
+    "rule": "B3/S23",
+    "source": "Life/Still-Lifes/random.rle",
+    "bytes": 7722
+  },
+  {
+    "name": "ss eaters",
+    "file": "patterns/Life/Still-Lifes/ss-eaters.rle",
+    "folder": "Life/Still-Lifes",
+    "rule": "B3/S23",
+    "source": "Life/Still-Lifes/ss-eaters.rle",
+    "bytes": 913
+  },
+  {
+    "name": "stripey",
+    "file": "patterns/Life/Still-Lifes/stripey.rle",
+    "folder": "Life/Still-Lifes",
+    "rule": "B3/S23",
+    "source": "Life/Still-Lifes/stripey.rle",
+    "bytes": 1479
+  },
+  {
+    "name": "109 still lifes",
+    "file": "patterns/Life/Syntheses/109-still-lifes.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/109-still-lifes.rle",
+    "bytes": 8147
+  },
+  {
+    "name": "29 still lifes",
+    "file": "patterns/Life/Syntheses/29-still-lifes.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/29-still-lifes.rle",
+    "bytes": 6913
+  },
+  {
+    "name": "blockish and blockic seeds",
+    "file": "patterns/Life/Syntheses/blockish-and-blockic-seeds.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/blockish-and-blockic-seeds.rle",
+    "bytes": 9758
+  },
+  {
+    "name": "life integer constructions",
+    "file": "patterns/Life/Syntheses/life-integer-constructions.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/life-integer-constructions.rle",
+    "bytes": 29218
+  },
+  {
+    "name": "make harbor",
+    "file": "patterns/Life/Syntheses/make-harbor.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/make-harbor.rle",
+    "bytes": 785
+  },
+  {
+    "name": "make osc p3",
+    "file": "patterns/Life/Syntheses/make-osc-p3.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/make-osc-p3.rle",
+    "bytes": 5354
+  },
+  {
+    "name": "make osc p4",
+    "file": "patterns/Life/Syntheses/make-osc-p4.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/make-osc-p4.rle",
+    "bytes": 8142
+  },
+  {
+    "name": "make osc p5 plus",
+    "file": "patterns/Life/Syntheses/make-osc-p5-plus.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/make-osc-p5-plus.rle",
+    "bytes": 9335
+  },
+  {
+    "name": "make p11",
+    "file": "patterns/Life/Syntheses/make-p11.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/make-p11.rle",
+    "bytes": 1871
+  },
+  {
+    "name": "make p18",
+    "file": "patterns/Life/Syntheses/make-p18.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/make-p18.rle",
+    "bytes": 989
+  },
+  {
+    "name": "make p33",
+    "file": "patterns/Life/Syntheses/make-p33.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/make-p33.rle",
+    "bytes": 1293
+  },
+  {
+    "name": "oscillator syntheses",
+    "file": "patterns/Life/Syntheses/oscillator-syntheses.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/oscillator-syntheses.rle",
+    "bytes": 2366
+  },
+  {
+    "name": "slow salvo eater recipes",
+    "file": "patterns/Life/Syntheses/slow-salvo-eater-recipes.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/slow-salvo-eater-recipes.rle",
+    "bytes": 1743
+  },
+  {
+    "name": "slow salvo MWSS oscillator",
+    "file": "patterns/Life/Syntheses/slow-salvo-MWSS-oscillator.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/slow-salvo-MWSS-oscillator.rle",
+    "bytes": 48773
+  },
+  {
+    "name": "spaceship synth demo",
+    "file": "patterns/Life/Syntheses/spaceship-synth-demo.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/spaceship-synth-demo.rle",
+    "bytes": 18277
+  },
+  {
+    "name": "syntheses of c2 spaceships",
+    "file": "patterns/Life/Syntheses/syntheses-of-c2-spaceships.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/syntheses-of-c2-spaceships.rle",
+    "bytes": 4861
+  },
+  {
+    "name": "two glider collisions",
+    "file": "patterns/Life/Syntheses/two-glider-collisions.rle",
+    "folder": "Life/Syntheses",
+    "rule": "B3/S23",
+    "source": "Life/Syntheses/two-glider-collisions.rle",
+    "bytes": 6239
+  },
+  {
+    "name": "34 oscillators",
+    "file": "patterns/Life-Like/34-oscillators.rle",
+    "folder": "Life-Like",
+    "rule": "B34/S34",
+    "source": "Life-Like/34-oscillators.rle",
+    "bytes": 2723
+  },
+  {
+    "name": "b3578s23 2d replicator",
+    "file": "patterns/Life-Like/b3578s23-2d-replicator.rle",
+    "folder": "Life-Like",
+    "rule": "B3578/S23",
+    "source": "Life-Like/b3578s23-2d-replicator.rle",
+    "bytes": 466
+  },
+  {
+    "name": "b3578s23 failed 2d replicator",
+    "file": "patterns/Life-Like/b3578s23-failed-2d-replicator.rle",
+    "folder": "Life-Like",
+    "rule": "B3578/S23",
+    "source": "Life-Like/b3578s23-failed-2d-replicator.rle",
+    "bytes": 440
+  },
+  {
+    "name": "coral",
+    "file": "patterns/Life-Like/coral.rle",
+    "folder": "Life-Like",
+    "rule": "B3/S45678",
+    "source": "Life-Like/coral.rle",
+    "bytes": 354
+  },
+  {
+    "name": "Day and Night gun and antigun",
+    "file": "patterns/Life-Like/Day-and-Night-gun-and-antigun.rle",
+    "folder": "Life-Like",
+    "rule": "B3678/S34678",
+    "source": "Life-Like/Day-and-Night-gun-and-antigun.rle",
+    "bytes": 1609
+  },
+  {
+    "name": "drylife p480 rake gun",
+    "file": "patterns/Life-Like/drylife-p480-rake-gun.rle",
+    "folder": "Life-Like",
+    "rule": "B37/S23",
+    "source": "Life-Like/drylife-p480-rake-gun.rle",
+    "bytes": 14928
+  },
+  {
+    "name": "gems c5648 spaceship",
+    "file": "patterns/Life-Like/gems-c5648-spaceship.rle",
+    "folder": "Life-Like",
+    "rule": "B3457/S4568",
+    "source": "Life-Like/gems-c5648-spaceship.rle",
+    "bytes": 341
+  },
+  {
+    "name": "highlife c98o spaceship p1728 gun",
+    "file": "patterns/Life-Like/highlife-c98o-spaceship-p1728-gun.rle",
+    "folder": "Life-Like",
+    "rule": "B36/S23",
+    "source": "Life-Like/highlife-c98o-spaceship-p1728-gun.rle",
+    "bytes": 17969
+  },
+  {
+    "name": "HighLife replicator spaceship",
+    "file": "patterns/Life-Like/HighLife-replicator-spaceship.rle",
+    "folder": "Life-Like",
+    "rule": "B36/S23",
+    "source": "Life-Like/HighLife-replicator-spaceship.rle",
+    "bytes": 3208
+  },
+  {
+    "name": "enterprise gun",
+    "file": "patterns/Life-Like/Morley/enterprise-gun.rle",
+    "folder": "Life-Like/Morley",
+    "rule": "B368/S245",
+    "source": "Life-Like/Morley/enterprise-gun.rle",
+    "bytes": 16139
+  },
+  {
+    "name": "growing ship",
+    "file": "patterns/Life-Like/Morley/growing-ship.rle",
+    "folder": "Life-Like/Morley",
+    "rule": "B368/S245",
+    "source": "Life-Like/Morley/growing-ship.rle",
+    "bytes": 2900
+  },
+  {
+    "name": "pedestrian life oblique rake gun",
+    "file": "patterns/Life-Like/pedestrian-life-oblique-rake-gun.rle",
+    "folder": "Life-Like",
+    "rule": "B38/S23",
+    "source": "Life-Like/pedestrian-life-oblique-rake-gun.rle",
+    "bytes": 6240
+  },
+  {
+    "name": "replicator",
+    "file": "patterns/Life-Like/replicator.rle",
+    "folder": "Life-Like",
+    "rule": "B1357/S1357",
+    "source": "Life-Like/replicator.rle",
+    "bytes": 155
+  },
+  {
+    "name": "spiral growth",
+    "file": "patterns/Life-Like/spiral-growth.rle",
+    "folder": "Life-Like",
+    "rule": "B34568/S15678",
+    "source": "Life-Like/spiral-growth.rle",
+    "bytes": 678
+  },
+  {
+    "name": "sqrt replicator",
+    "file": "patterns/Life-Like/sqrt-replicator.rle",
+    "folder": "Life-Like",
+    "rule": "B36/S245",
+    "source": "Life-Like/sqrt-replicator.rle",
+    "bytes": 353
+  },
+  {
+    "name": "white whale",
+    "file": "patterns/Life-Like/white-whale.rle",
+    "folder": "Life-Like",
+    "rule": "B345/S5",
+    "source": "Life-Like/white-whale.rle",
+    "bytes": 354
+  },
+  {
+    "name": "circuit",
+    "file": "patterns/WireWorld/circuit.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/circuit.mcl",
+    "bytes": 1908
+  },
+  {
+    "name": "clocks",
+    "file": "patterns/WireWorld/clocks.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/clocks.mcl",
+    "bytes": 1410
+  },
+  {
+    "name": "flip flop",
+    "file": "patterns/WireWorld/flip-flop.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/flip-flop.mcl",
+    "bytes": 940
+  },
+  {
+    "name": "gate AND",
+    "file": "patterns/WireWorld/gate-AND.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/gate-AND.mcl",
+    "bytes": 865
+  },
+  {
+    "name": "gate NOT",
+    "file": "patterns/WireWorld/gate-NOT.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/gate-NOT.mcl",
+    "bytes": 523
+  },
+  {
+    "name": "gate OR",
+    "file": "patterns/WireWorld/gate-OR.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/gate-OR.mcl",
+    "bytes": 794
+  },
+  {
+    "name": "gate XOR",
+    "file": "patterns/WireWorld/gate-XOR.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/gate-XOR.mcl",
+    "bytes": 796
+  },
+  {
+    "name": "memory cell",
+    "file": "patterns/WireWorld/memory-cell.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/memory-cell.mcl",
+    "bytes": 1154
+  },
+  {
+    "name": "NickGardner",
+    "file": "patterns/WireWorld/NickGardner.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/NickGardner.mcl",
+    "bytes": 17723
+  },
+  {
+    "name": "NylesHeise",
+    "file": "patterns/WireWorld/NylesHeise.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/NylesHeise.mcl",
+    "bytes": 5220
+  },
+  {
+    "name": "primes",
+    "file": "patterns/WireWorld/primes.mc",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/primes.mc",
+    "bytes": 81492
+  },
+  {
+    "name": "unary multiplier",
+    "file": "patterns/WireWorld/unary-multiplier.mcl",
+    "folder": "WireWorld",
+    "rule": "WireWorld",
+    "source": "WireWorld/unary-multiplier.mcl",
+    "bytes": 14423
+  }
+]

@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="Explore Life, Wireworld circuits and Life-like rules with a multistate HashLife engine and Golly pattern catalogue."
+    />
+    <title>Cellular Studio — Jenga-Code</title>
+    <link rel="stylesheet" href="css/style.css?v=cellular-1" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to universe</a>
+    <header class="site-header">
+      <a aria-label="Jenga-Code homepage" class="brand" href="/"
+        ><svg
+          aria-hidden="true"
+          class="compass-mark"
+          height="54"
+          viewBox="0 0 64 64"
+          width="54"
+        >
+          <circle
+            cx="32"
+            cy="32"
+            fill="none"
+            r="23"
+            stroke="currentColor"
+            stroke-width="1"
+          ></circle>
+          <path
+            d="M32 2 38 26 62 32 38 38 32 62 26 38 2 32 26 26Z"
+            fill="none"
+            stroke="currentColor"
+          ></path>
+          <path
+            d="M32 7 32 32 26 26ZM57 32 32 32 38 26ZM32 57 32 32 38 38ZM7 32 32 32 26 38Z"
+            fill="currentColor"
+          ></path>
+          <circle cx="32" cy="32" fill="currentColor" r="3"></circle></svg
+        ><span
+          >Jenga-Code<small
+            >ALGORITHMS · GAMES · MATHEMATICAL IDEAS</small
+          ></span
+        ></a
+      >
+      <nav aria-label="Main navigation">
+        <a href="/">Home</a><a aria-current="page" href="/apps/">Applications</a
+        ><a href="/blog/">Journal</a
+        ><a href="/qualifications/">Qualifications</a>
+      </nav>
+      <div class="masthead-art" aria-hidden="true"></div>
+    </header>
+    <main id="main" class="studio">
+      <aside class="catalogue">
+        <h2>Pattern catalogue</h2>
+        <input
+          id="search"
+          type="search"
+          placeholder="Search names"
+          aria-label="Search pattern names"
+        /><select id="filter" aria-label="Filter patterns">
+          <option value="all">All supported patterns</option>
+          <option value="life">Conway Life</option>
+          <option value="wire">Wireworld</option>
+          <option value="other">Other Life-like rules</option>
+          <option value="mine">My patterns</option>
+        </select>
+        <p id="catalogueCount" class="small">Loading catalogue…</p>
+        <div
+          id="patternTree"
+          class="pattern-tree"
+          aria-label="Pattern folders"
+        ></div>
+        <img
+          class="study"
+          src="images/cellular-study.png"
+          width="1024"
+          height="1536"
+          alt="Engraved armillary sphere with geometric cellular studies"
+        />
+        <div class="file-actions">
+          <button id="openFile">▱ Open file</button
+          ><button id="openFolder">▱ Import folder</button
+          ><button id="savePattern">▣ Save pattern</button
+          ><button id="export">↓ Export</button>
+        </div>
+        <p class="small"><a href="ATTRIBUTIONS.md">Sources &amp; credits</a></p>
+      </aside>
+      <section class="universe">
+        <div class="title">
+          <h1>Cellular Studio</h1>
+          <p>Patterns, circuits and evolving universes.</p>
+        </div>
+        <div class="mode-stats">
+          <div class="modes">
+            <button data-mode="B3/S23">Conway Life</button
+            ><button data-mode="WireWorld" aria-pressed="true">
+              Wireworld
+            </button>
+          </div>
+          <div class="stat">Generation <strong id="generation">0</strong></div>
+          <div class="stat">
+            <span id="populationLabel">Active heads</span>
+            <strong id="population">0</strong>
+          </div>
+          <div class="stat">
+            Engine <strong id="engineLabel">HashLife</strong>
+          </div>
+        </div>
+        <div class="canvas-frame">
+          <canvas
+            id="universeCanvas"
+            width="1000"
+            height="850"
+            tabindex="0"
+            aria-label="Cellular universe. Draw or erase with a pointer; move mode pans. Plus and minus zoom."
+          ></canvas>
+          <div class="canvas-legend" id="canvasLegend"></div>
+          <div class="coordinates" id="coordinates">0, 0</div>
+        </div>
+        <div class="toolbar">
+          <button id="run" class="primary">▶ Run</button
+          ><button id="pause">Ⅱ Pause</button><button id="step">▸ Step</button
+          ><button id="undo">↶ Undo</button><button id="redo">↷ Redo</button
+          ><button id="clear">Clear</button><span class="spacer"></span
+          ><button id="zoomOut" aria-label="Zoom out">−</button
+          ><span id="zoomText">100%</span
+          ><button id="zoomIn" aria-label="Zoom in">+</button
+          ><button id="fit">⛶ Fit universe</button>
+        </div>
+        <div class="underbar">
+          <span id="ruleLabel">Wireworld · 4 states</span
+          ><button id="png">↓ Save PNG</button>
+        </div>
+        <p id="status" class="status" role="status">
+          Loading pattern catalogue…
+        </p>
+        <p class="small" id="patternName"></p>
+      </section>
+      <aside class="inspector">
+        <h2>Simulation</h2>
+        <label for="rule">Rule</label
+        ><select id="rule">
+          <option value="B3/S23">Conway Life · B3/S23</option>
+          <option value="WireWorld" selected>Wireworld · 4 states</option>
+          <option value="B36/S23">HighLife · B36/S23</option>
+          <option value="B2/S">Seeds · B2/S</option>
+          <option value="B3678/S34678">Day &amp; Night</option></select
+        ><label for="engine">Engine</label
+        ><select id="engine">
+          <option value="hash">HashLife · cached quadtree</option>
+          <option value="sparse">Sparse · single steps</option></select
+        ><label for="speed">Speed <output id="speedValue">15 FPS</output></label
+        ><input id="speed" type="range" min="1" max="60" value="15" /><label
+          for="stride"
+          >Generations per frame</label
+        ><select id="stride">
+          <option value="0">1</option>
+          <option value="4">16</option>
+          <option value="8">256</option>
+          <option value="12">4,096</option></select
+        ><label for="jump">Generation jump</label>
+        <div class="jump">
+          <input
+            id="jump"
+            type="number"
+            min="1"
+            max="1000000000"
+            step="1"
+            value="65536"
+          /><button id="advance">Advance</button>
+        </div>
+        <button id="cancel" hidden>Cancel calculation</button>
+        <hr />
+        <h2>Drawing tools</h2>
+        <div class="tool-row">
+          <button data-tool="draw" aria-pressed="true">✎ Draw</button
+          ><button data-tool="erase">◇ Erase</button
+          ><button data-tool="move">✥ Move</button>
+        </div>
+        <label>Cell states</label>
+        <div id="states" class="states"></div>
+        <label>Rotate &amp; flip · whole pattern</label>
+        <div class="transform">
+          <button id="rotateLeft" aria-label="Rotate anticlockwise">↶</button
+          ><button id="rotateRight" aria-label="Rotate clockwise">↷</button
+          ><button id="flipX" aria-label="Flip horizontally">↔</button
+          ><button id="flipY" aria-label="Flip vertically">↕</button>
+        </div>
+        <details>
+          <summary>View settings</summary>
+          <label class="check"><input type="checkbox" id="colourHistory" checked /> Life activity colours &amp; trails</label><p class="small">Life: ivory = newly observed, gold = recurring, mint = frequently observed; slate = previously alive. Colours record visible simulation samples, not exact age across HashLife jumps. Zoom in to see trails. Wireworld: ice = head, coral = tail, dark blue = conductor.</p><label for="theme">Canvas palette</label
+          ><select id="theme">
+            <option value="dark">Midnight blue</option>
+            <option value="cream">Warm charcoal</option></select
+          ><label class="check"
+            ><input type="checkbox" id="grid" checked /> Show grid</label
+          ><label class="check"
+            ><input type="checkbox" id="autoFit" /> Fit after generation
+            jumps</label
+          ><button id="fullscreen">Fullscreen universe</button>
+        </details>
+        <details>
+          <summary>Pattern details</summary>
+          <pre id="description">
+Select a pattern to read its original notes.</pre
+          >
+        </details>
+        <details>
+          <summary>Supported rules &amp; engines</summary>
+          <p class="small">
+            Conway Life, Wireworld and binary B/S rules without B0. Both binary
+            and four-state rules use cached quadtree evolution. Sparse mode is
+            useful for small irregular patterns. Golly rules with other state
+            systems or bounded topologies are excluded.
+          </p>
+          <p class="small">
+            RLE, macrocell (.mc), Wireworld MCell (.mcl) and Life coordinate
+            files are supported. Large patterns may need smaller jumps or more
+            memory.
+          </p>
+          <p id="engineStats" class="small"></p>
+        </details>
+        <details>
+          <summary>Random field</summary>
+          <label for="randomSize">Width &amp; height</label
+          ><input
+            id="randomSize"
+            type="number"
+            min="4"
+            max="150"
+            value="50"
+          /><label for="randomDensity">Density</label
+          ><input
+            id="randomDensity"
+            type="range"
+            min="1"
+            max="90"
+            value="25"
+          /><button id="randomise">Generate field</button>
+        </details>
+      </aside>
+    </main>
+    <footer>
+      Jenga-Code · Cellular Studio <a href="/apps/">All applications</a>
+    </footer>
+    <input
+      id="fileInput"
+      type="file"
+      multiple
+      accept=".rle,.mc,.mcl,.lif,.gz"
+      hidden
+    /><input id="folderInput" type="file" multiple webkitdirectory hidden />
+    <dialog id="exportDialog">
+      <form method="dialog">
+        <h2>Export pattern</h2>
+        <label for="exportName">Name</label
+        ><input id="exportName" value="My pattern" maxlength="100" /><label
+          for="exportFormat"
+          >Format</label
+        ><select id="exportFormat">
+          <option value="mc">Macrocell · compressed quadtree</option>
+          <option value="rle">RLE · editable pattern text</option>
+        </select>
+        <p class="small">
+          Macrocell preserves very large patterns efficiently. RLE is limited to
+          500,000 nonempty cells.
+        </p>
+        <div class="tool-row">
+          <button id="downloadPattern" type="button">Download file</button
+          ><button>Close</button>
+        </div>
+      </form>
+    </dialog>
+    <dialog id="saveDialog">
+      <form method="dialog">
+        <h2>Save in My patterns</h2>
+        <label for="saveName">Pattern name</label
+        ><input id="saveName" value="My pattern" maxlength="100" /><label
+          for="saveFolder"
+          >Folder</label
+        ><input id="saveFolder" value="My patterns" maxlength="100" />
+        <p class="small">
+          Stored in this browser. Export a file for a portable backup.
+        </p>
+        <div class="tool-row">
+          <button id="confirmSave" type="button">Save</button
+          ><button>Cancel</button>
+        </div>
+      </form>
+    </dialog>
+    <script src="js/HashLife.js"></script>
+    <script src="js/Formats.js"></script>
+    <script src="js/Viewport.js"></script>
+    <script src="js/app.js?v=cellular-1"></script>
+  </body>
+</html>

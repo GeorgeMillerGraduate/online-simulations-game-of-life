@@ -1,0 +1,1346 @@
+[
+  {
+    "file": "Generations/9-43-at-knight-rake-gun.rle",
+    "rule": "237/34578/4"
+  },
+  {
+    "file": "Generations/b3-s23-g3-spaceship-breeder.rle",
+    "rule": "23/3/3"
+  },
+  {
+    "file": "Generations/banner.rle",
+    "rule": "2367/3457/5"
+  },
+  {
+    "file": "Generations/bloomerang.rle",
+    "rule": "234/34678/24"
+  },
+  {
+    "file": "Generations/burst.rle",
+    "rule": "0235678/3468/9"
+  },
+  {
+    "file": "Generations/caterpillars.rle",
+    "rule": "124567/378/4"
+  },
+  {
+    "file": "Generations/delta.rle",
+    "rule": "345/3/6"
+  },
+  {
+    "file": "Generations/ebb-and-flow.rle",
+    "rule": "012478/36/18"
+  },
+  {
+    "file": "Generations/fireworks.rle",
+    "rule": "2/13/21"
+  },
+  {
+    "file": "Generations/flying-sierpinski.rle",
+    "rule": "1/1/5"
+  },
+  {
+    "file": "Generations/g3b3s23-breeder.rle",
+    "rule": "23/3/3"
+  },
+  {
+    "file": "Generations/isotropic-rule-wire-construction-gun.rle",
+    "rule": "1e2-a3-cij4aijkrtz5cnqr/2ce3aejnr4aj5y6a/3"
+  },
+  {
+    "file": "Generations/lava.rle",
+    "rule": "12345/45678/8"
+  },
+  {
+    "file": "Generations/lines.rle",
+    "rule": "012345/458/3"
+  },
+  {
+    "file": "Generations/meteor-guns.rle",
+    "rule": "01245678/3/8"
+  },
+  {
+    "file": "Generations/nova.rle",
+    "rule": "45678/2478/25"
+  },
+  {
+    "file": "Generations/p8009-gun.rle",
+    "rule": "235678/3456/9"
+  },
+  {
+    "file": "Generations/perfect-spiral.rle",
+    "rule": "2/234/5"
+  },
+  {
+    "file": "Generations/sawfish.rle",
+    "rule": "3458/37/4"
+  },
+  {
+    "file": "Generations/sedimental.rle",
+    "rule": "45678/25678/4"
+  },
+  {
+    "file": "Generations/snake-square-oscillators.rle",
+    "rule": "03467/25/6"
+  },
+  {
+    "file": "Generations/steeplechase.rle",
+    "rule": "345/2/4"
+  },
+  {
+    "file": "Generations/transers.rle",
+    "rule": "345/26/5"
+  },
+  {
+    "file": "Generations/unusual-ruler.rle",
+    "rule": "34568/2/10"
+  },
+  {
+    "file": "Generations/what-a-mess.rle",
+    "rule": "/2/3"
+  },
+  {
+    "file": "HashLife/Metacell/fangtian2-immigration-figure-eight.mc",
+    "rule": "B3-jknr4ity5ijk6i8/S23-a4city6c7c"
+  },
+  {
+    "file": "HashLife/Metacell/fangtian2-marg3diag-variant-p242.mc",
+    "rule": "B3-jknr4ity5ijk6i8/S23-a4city6c7c"
+  },
+  {
+    "file": "HashLife/Metacell/fangtian-p1888-oscillator.mc",
+    "rule": "B3-jknr4ity5ijk6i8/S23-a4city6c7c"
+  },
+  {
+    "file": "HashLife/Metacell/fangtian-p72-lepagun.mc",
+    "rule": "B3-jknr4ity5ijk6i8/S23-a4city6c7c"
+  },
+  {
+    "file": "Larger-than-Life/4c-212-roomba-bug.rle",
+    "rule": "R25,C0,S849-1323,B777-1600"
+  },
+  {
+    "file": "Larger-than-Life/4c273954-slow-ship.rle",
+    "rule": "R45,C2,S2884-4922,B2500-4973"
+  },
+  {
+    "file": "Larger-than-Life/50c-spaceships.rle",
+    "rule": "R50,C2,S50-90,B51"
+  },
+  {
+    "file": "Larger-than-Life/996c-2-spaceship.rle",
+    "rule": "R498,C3,S8649,B499"
+  },
+  {
+    "file": "Larger-than-Life/blinkers.rle",
+    "rule": "R10,C0,S122-211,B123-170"
+  },
+  {
+    "file": "Larger-than-Life/bosco.rle",
+    "rule": "R5,C2,S33-57,B34-45"
+  },
+  {
+    "file": "Larger-than-Life/bug-collection.rle",
+    "rule": "R5,C2,S33-57,B34-45"
+  },
+  {
+    "file": "Larger-than-Life/bug-gun.rle",
+    "rule": "R5,C2,S33-57,B34-45"
+  },
+  {
+    "file": "Larger-than-Life/bug-reactions.rle",
+    "rule": "R5,C2,S33-57,B34-45"
+  },
+  {
+    "file": "Larger-than-Life/butterfly.rle",
+    "rule": "R5,C2,S33-51,B31-45"
+  },
+  {
+    "file": "Larger-than-Life/crystal-chaos.rle",
+    "rule": "R2,C0,S4-7,9-12,B4,11-12,NB"
+  },
+  {
+    "file": "Larger-than-Life/factorio-small-objects.rle",
+    "rule": "R3,C2,S2,B3,N+"
+  },
+  {
+    "file": "Larger-than-Life/globe.rle",
+    "rule": "R8,C2,S163-223,B74-252"
+  },
+  {
+    "file": "Larger-than-Life/gnarl.rle",
+    "rule": "R1,C2,S0,B1,NN"
+  },
+  {
+    "file": "Larger-than-Life/gun-collection.rle",
+    "rule": "R5,C2,S33-57,B34-45"
+  },
+  {
+    "file": "Larger-than-Life/hexagonal-grid-diagonal-solid-ship.rle",
+    "rule": "R10,C0,S114-196,B99-200,NH"
+  },
+  {
+    "file": "Larger-than-Life/hexagonal-grid-orthogonal-solid-ship.rle",
+    "rule": "R10,C0,S114-200,B100-200,NH"
+  },
+  {
+    "file": "Larger-than-Life/jitterbug.rle",
+    "rule": "R4,C2,S23-37,B22-31"
+  },
+  {
+    "file": "Larger-than-Life/liquid-methuseblob-soup.rle",
+    "rule": "R6,C2,S57-89,B52-60"
+  },
+  {
+    "file": "Larger-than-Life/majority.rle",
+    "rule": "R4,C2,S40-80,B41-80,NM:T180,180"
+  },
+  {
+    "file": "Larger-than-Life/modern-art.rle",
+    "rule": "R10,C255,S1-2,B3"
+  },
+  {
+    "file": "Larger-than-Life/quadratic-bugs-spaceships.rle",
+    "rule": "R6,C0,S46-80,B47-61"
+  },
+  {
+    "file": "Larger-than-Life/quadratic-replicating-bug.rle",
+    "rule": "R6,C0,S46-80,B47-61"
+  },
+  {
+    "file": "Larger-than-Life/r100-alien-bug.rle",
+    "rule": "R100,C2,S10349-15739,B9350-12360"
+  },
+  {
+    "file": "Larger-than-Life/r100-neumann-bug.rle",
+    "rule": "R100,C2,S5611-9775,B5612-7585,NN"
+  },
+  {
+    "file": "Larger-than-Life/r500-alien-bug.rle",
+    "rule": "R500,C2,S256693-390373,B231893-306545"
+  },
+  {
+    "file": "Larger-than-Life/r50-unknown-fate-bug.rle",
+    "rule": "R50,C2,S3333-5192,B3025-6154"
+  },
+  {
+    "file": "Larger-than-Life/slow-backrake.rle",
+    "rule": "R3,C2,S13-25,B8-9"
+  },
+  {
+    "file": "Larger-than-Life/slow-ship.rle",
+    "rule": "R10,C2,S153-261,B133-265"
+  },
+  {
+    "file": "Larger-than-Life/soldier-bugs.rle",
+    "rule": "R7,C2,S64-113,B65-95"
+  },
+  {
+    "file": "Larger-than-Life/triangular-grid-orthogonal-solid-ship.rle",
+    "rule": "R10,C0,S230-392,B200-398,NL"
+  },
+  {
+    "file": "Larger-than-Life/triangular-grid-Sierpinski-generator.rle",
+    "rule": "R1,C2,S1,B1,10,11,12,NL"
+  },
+  {
+    "file": "Larger-than-Life/waffle.rle",
+    "rule": "R7,C2,S99-199,B75-170"
+  },
+  {
+    "file": "Life/Bounded-Grids/agar-p3.rle",
+    "rule": "B3/S23:T72,48"
+  },
+  {
+    "file": "Life/Bounded-Grids/cross-surface.rle",
+    "rule": "LifeHistory:C40,20"
+  },
+  {
+    "file": "Life/Bounded-Grids/crystallizing-dirty-superstring.rle",
+    "rule": "B3/S23:T0,128"
+  },
+  {
+    "file": "Life/Bounded-Grids/herringbone-agar-p14.rle",
+    "rule": "B3/S23:T48,48"
+  },
+  {
+    "file": "Life/Bounded-Grids/Klein-bottle.rle",
+    "rule": "LifeHistory:K40*,20"
+  },
+  {
+    "file": "Life/Bounded-Grids/lightspeed-bubble.rle",
+    "rule": "B3/S23:T600,136"
+  },
+  {
+    "file": "Life/Bounded-Grids/pulsars-in-tube.rle",
+    "rule": "B3/S23:T0,68"
+  },
+  {
+    "file": "Life/Bounded-Grids/sphere.rle",
+    "rule": "LifeHistory:S30"
+  },
+  {
+    "file": "Life/Bounded-Grids/torus.rle",
+    "rule": "LifeHistory:T31,20"
+  },
+  {
+    "file": "Life/Bounded-Grids/torus-with-shift.rle",
+    "rule": "LifeHistory:T30+7,20"
+  },
+  {
+    "file": "Life/Syntheses/two-glider-collisions-lh.rle",
+    "rule": "LifeHistory"
+  },
+  {
+    "file": "Life-Like/b026s1-unidimensional-spaceships.rle",
+    "rule": "B026/S1"
+  },
+  {
+    "file": "Life-Like/binary-counter-and-iterated-log-gun.rle",
+    "rule": "B017/S01"
+  },
+  {
+    "file": "Life-Like/ice-nine.rle",
+    "rule": "B25678/S5678:T20,20"
+  },
+  {
+    "file": "Life-Like/lfod-flying-rule110-simulator.rle",
+    "rule": "B2/S0:T4320,7200"
+  },
+  {
+    "file": "Life-Like/Morley/breeder2.rle",
+    "rule": "S245/B368"
+  },
+  {
+    "file": "Life-Like/mortality.rle",
+    "rule": "B0124/S025"
+  },
+  {
+    "file": "Life-Like/p168-knightship.rle",
+    "rule": "B013568/S01"
+  },
+  {
+    "file": "Life-Like/persian-rugs.lif",
+    "rule": "B234"
+  },
+  {
+    "file": "Life-Like/waffle-rake.rle",
+    "rule": "B013468/S023"
+  },
+  {
+    "file": "Loops/Byl-Loop.rle",
+    "rule": "Byl-Loop"
+  },
+  {
+    "file": "Loops/Chou-Reggia-Loop-1.rle",
+    "rule": "Chou-Reggia-1"
+  },
+  {
+    "file": "Loops/Chou-Reggia-Loop-2.rle",
+    "rule": "Chou-Reggia-2"
+  },
+  {
+    "file": "Loops/Evoloop.rle",
+    "rule": "Evoloop"
+  },
+  {
+    "file": "Loops/Evoloop-finite.rle",
+    "rule": "Evoloop-finite"
+  },
+  {
+    "file": "Loops/Langtons-Loops.rle",
+    "rule": "Langtons-Loops"
+  },
+  {
+    "file": "Loops/Perrier-Loop.rle",
+    "rule": "Perrier"
+  },
+  {
+    "file": "Loops/Perrier-Parenthesis-Checker.rle",
+    "rule": "Perrier"
+  },
+  {
+    "file": "Loops/SDSR-Loop.rle",
+    "rule": "SDSR-Loop"
+  },
+  {
+    "file": "Loops/Tempesti-Loop.rle",
+    "rule": "Tempesti"
+  },
+  {
+    "file": "Margolus/BBM.rle",
+    "rule": "BBM-Margolus-emulated"
+  },
+  {
+    "file": "Margolus/CrittersCircle.rle",
+    "rule": "CrittersMargolus_emulated:T300,300"
+  },
+  {
+    "file": "Margolus/CrittersOscillators.rle",
+    "rule": "CrittersMargolus_emulated:T50,50"
+  },
+  {
+    "file": "Margolus/DLA.rle",
+    "rule": "DLA-Margolus-emulated"
+  },
+  {
+    "file": "Margolus/HPP.rle",
+    "rule": "HPPMargolus_emulated:T20,20"
+  },
+  {
+    "file": "Margolus/HPP_large.rle",
+    "rule": "HPPMargolus_emulated:T200,200"
+  },
+  {
+    "file": "Margolus/Sand.rle",
+    "rule": "Sand-Margolus-emulated"
+  },
+  {
+    "file": "Margolus/Sand-Test.rle",
+    "rule": "Sand-Margolus-emulated"
+  },
+  {
+    "file": "Margolus/TMGas.rle",
+    "rule": "TMGasMargolus_emulated"
+  },
+  {
+    "file": "Margolus/TMGas_largeWithHole.rle",
+    "rule": "TMGasMargolus_emulated"
+  },
+  {
+    "file": "Margolus/TripATron.rle",
+    "rule": "TripATronMargolus_emulated:T50,50"
+  },
+  {
+    "file": "Margolus/TripATron_BlockAligned.rle",
+    "rule": "TripATronMargolus_emulated:T50,50"
+  },
+  {
+    "file": "Non-Totalistic/1-cell-methuselah-538.rle",
+    "rule": "B1e2in3ck4-iknty5q7c8/S12-e3-ai4-ejkqy5ry6ce8"
+  },
+  {
+    "file": "Non-Totalistic/1d-turing-machine.rle",
+    "rule": "B3-cjkq4ceit5i6c/S012c3j4a5eiy6ci"
+  },
+  {
+    "file": "Non-Totalistic/5c101-technology.rle",
+    "rule": "B2n34c5c6n7c8/S23-ac4eiz6ci7"
+  },
+  {
+    "file": "Non-Totalistic/b2-a4s1-wavestretcher.rle",
+    "rule": "B2-a4/S1"
+  },
+  {
+    "file": "Non-Totalistic/bubbles-in-phoenician-agar.rle",
+    "rule": "B2c3i4in5r6i/S:T128,600"
+  },
+  {
+    "file": "Non-Totalistic/chaos-boxes.rle",
+    "rule": "B2-a3i5k6c/S2-a3-an45ik7e"
+  },
+  {
+    "file": "Non-Totalistic/checkerboard-spaceships-and-growth.rle",
+    "rule": "B2cn3acnry4cjry5e/S01c2cn3-qry4cey5en6e"
+  },
+  {
+    "file": "Non-Totalistic/elastic-growth.rle",
+    "rule": "B2-a5678/S125678"
+  },
+  {
+    "file": "Non-Totalistic/exponential-block-pusher.rle",
+    "rule": "B3-jq5-iy6/S2-k35-qy6-ci"
+  },
+  {
+    "file": "Non-Totalistic/flying-and-oscillating-diamonds.rle",
+    "rule": "B2ik3-kqry4-ijky5-i6i7/S02a4i"
+  },
+  {
+    "file": "Non-Totalistic/Fractal-Generators/four-interacting-sierpinski-generators.rle",
+    "rule": "B2a3ej6k/S2c3r"
+  },
+  {
+    "file": "Non-Totalistic/Fractal-Generators/infinite-photon-factory.rle",
+    "rule": "B2a4w/S2e3j"
+  },
+  {
+    "file": "Non-Totalistic/Fractal-Generators/kite-sierpinski-generator.rle",
+    "rule": "B2e3aeijn4ntz5aky6ei7e8/S1c2acn3aknq4aejnry5cjnqy6cik7e8"
+  },
+  {
+    "file": "Non-Totalistic/Fractal-Generators/log3-5-fractal-generator.rle",
+    "rule": "B2e3-ckq4cz5y7c/S1c2ac3ajn4ejrwz5c6i"
+  },
+  {
+    "file": "Non-Totalistic/Fractal-Generators/pascal-mod-3-generator.rle",
+    "rule": "B2e35y7e/S1c2ace3an"
+  },
+  {
+    "file": "Non-Totalistic/Fractal-Generators/pascal-mod-5-generator.rle",
+    "rule": "B2e3-cnqy4rwyz5y6ace7c/S1c2ac3aiq4eiknrwy5cn6ekn7c8"
+  },
+  {
+    "file": "Non-Totalistic/Fractal-Generators/pascal-pseudo-mod-4-generator.rle",
+    "rule": "B2ei3-akny4acnqrw5aqy6aen/S1c2-ik3ack4cjknrw5acjk6c7"
+  },
+  {
+    "file": "Non-Totalistic/Fractal-Generators/sierpinski-like-log5-12.rle",
+    "rule": "B2e3-acry4acei5cijy6ak8/S1c2ac3acqr4aejz5nqr6n8"
+  },
+  {
+    "file": "Non-Totalistic/Fractal-Generators/sierpinski-variant-fractal.rle",
+    "rule": "B2ek3-cknr4qrty5-acj6aik/S1c2acn3-ceiy5ejky6i"
+  },
+  {
+    "file": "Non-Totalistic/Guns/atpp-48c336-repship-p4032-gun.rle",
+    "rule": "B3-ckq4z/S2-c3-a4iq5k6k"
+  },
+  {
+    "file": "Non-Totalistic/Guns/glider-24mer-gun.rle",
+    "rule": "B3-ky4jy5cr/S2-in3-aeky4cnrt5a6ekn"
+  },
+  {
+    "file": "Non-Totalistic/Guns/glitter2-p312-2c12d-gun.rle",
+    "rule": "B3-ekqy4j5acy6cn7c/S2-in3aijnr4aw6ci7c8"
+  },
+  {
+    "file": "Non-Totalistic/Guns/horiship-guns.rle",
+    "rule": "B2cek3i_S12cei"
+  },
+  {
+    "file": "Non-Totalistic/Guns/intergalactic-cruise-ship-factory.rle",
+    "rule": "B2aei3r4kn5jnr6k/S2ai3k4iknqr5r6ai"
+  },
+  {
+    "file": "Non-Totalistic/Guns/leaplife-p361-glider-gun.rle",
+    "rule": "B2n3/S23-q"
+  },
+  {
+    "file": "Non-Totalistic/Guns/myrtlelife-rake-gun.rle",
+    "rule": "B3-kq4j/S2-n36c"
+  },
+  {
+    "file": "Non-Totalistic/Guns/p56-gun-in-strobing-checkerboard.rle",
+    "rule": "B2-an3aejkr4-acikn5n6-ce7e/S1c2in3aejkr4ejkqtz5ckq6-a:T56,0"
+  },
+  {
+    "file": "Non-Totalistic/Guns/ripples-p1366-gun.rle",
+    "rule": "B2en3ijk4a5ae7e8/S1c2cek3-a4aciqw5aky6en7"
+  },
+  {
+    "file": "Non-Totalistic/Guns/rr14gun.rle",
+    "rule": "B2-ac3ai/S1c2-n3-aky4a"
+  },
+  {
+    "file": "Non-Totalistic/infinite-binary-ruler-generator.rle",
+    "rule": "B2ak3nr4iy/S3-nr4ent5er"
+  },
+  {
+    "file": "Non-Totalistic/justfriends-oscillators.rle",
+    "rule": "B2-a/S12"
+  },
+  {
+    "file": "Non-Totalistic/justfriends-p137loop.rle",
+    "rule": "B2-a/S12"
+  },
+  {
+    "file": "Non-Totalistic/justfriends-p384drifter.rle",
+    "rule": "B2-a/S12"
+  },
+  {
+    "file": "Non-Totalistic/justfriends-p8256-c4-rake.rle",
+    "rule": "B2-a/S12"
+  },
+  {
+    "file": "Non-Totalistic/langton-s-ant-simulator.rle",
+    "rule": "B3-cjkq4knqy5cnr7/S02-cn3-ak4eiq5kq6e7e"
+  },
+  {
+    "file": "Non-Totalistic/limited-spacefiller.rle",
+    "rule": "B2-a5/S1e2-a35678"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/agaric-1.rle",
+    "rule": "B4c/S02en3ce4ci5e"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/agaric-2.rle",
+    "rule": "B3a5i8/S3i4i6ci7e8"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/bounded-rule-90-oscillator.rle",
+    "rule": "B2e7e/S1e2ai3er4ir5i"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/comparison.rle",
+    "rule": "B2e3i/S5i"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/comparison-2.rle",
+    "rule": "B2e3i4e/S5i8"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/comparison-3.rle",
+    "rule": "B2e3i/S5i8"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/comparison-4.rle",
+    "rule": "B2e3i4e/S5i"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/five-margolus-media.rle",
+    "rule": "B2c3i4i5i/S2c3i4i5iHistory"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/five-margolus-media2.rle",
+    "rule": "B01e2cei3ei4eit5i6c/S01e2cei3ei4eit5i6c"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/less-obvious-medium.rle",
+    "rule": "B2-a3/S01c2n5i"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/m10-duoplet-shaped-medium.rle",
+    "rule": "B2-a3ae4nr5e/S123en4nr"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/m10-miniaturized.rle",
+    "rule": "B3i4int5ey6k7e/S1e2k3ey4irt5i"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/m10-plus-shaped-medium.rle",
+    "rule": "B2i3ai4qt5i/S1e2ik3ij4w5i"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/m10-pond-shaped-medium.rle",
+    "rule": "B2en3ijq4w6aen/S2cek3aceny4ejqr5jk6a"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/m10-self-similarity.rle",
+    "rule": "B3i/S5i"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/m10-sparky-medium.rle",
+    "rule": "B2acn3a4a5a8/S3ir5a"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/m10-spiky-medium.rle",
+    "rule": "B2an3a4aw8/S3iy5c"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/m11-miniaturized.rle",
+    "rule": "B3i4int5ey6ik7e/S1e2ik3ey4airt5ijq6c7e8"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/modulo-2.rle",
+    "rule": "B3i/S5i"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/modulo-3.rle",
+    "rule": "MarBlocks3-OT-2x2-minimal"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/modulo-5.rle",
+    "rule": "MarBlocks5-OT-2x2-minimal"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/modulo-7.rle",
+    "rule": "MarBlocks7-OT-2x2-minimal"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/p3-m11-antimedium.rle",
+    "rule": "B1e2i3er4e5i6cn/S2ac:T120,90"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/replicator-mod-2.rle",
+    "rule": "B2ae/S"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/replicator-mod-3.rle",
+    "rule": "MarBlocks-3-rep"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/replicator-mod-5.rle",
+    "rule": "MarBlocks-5-rep"
+  },
+  {
+    "file": "Non-Totalistic/MarBlocks/replicator-mod-7.rle",
+    "rule": "MarBlocks-7-rep"
+  },
+  {
+    "file": "Non-Totalistic/modern-art-puffthing.rle",
+    "rule": "B2k35n/S23-a4eitz"
+  },
+  {
+    "file": "Non-Totalistic/moving-crystallographic-defects.rle",
+    "rule": "B2kn3-ekqr4i5eq6n8/S23-aeny4cikqr5ek6ace7c"
+  },
+  {
+    "file": "Non-Totalistic/novelty-cross.rle",
+    "rule": "B35cj6ce7/S34-cry5-jnr6ci78"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/big-pseudocyclic-whitespace-oscillator.rle",
+    "rule": "B3aeikr4cekrtwy5ckq6cei7/S2cen3-jr4cei5eikq6-a7c8"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/cloverleaf-chain.rle",
+    "rule": "B3-jknr4ity5ijk6i8/S23-a4city6c7c"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/cloverleaf-chain-emulation.rle",
+    "rule": "MAPAAD//zAwPz8AAP//MDA/PwAA//8AAP//AAD//wAA//8AAD8/AAD//wAAPz8AAP//wMD//wAA///AwP//AAD//w"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/loopability-104-rro.rle",
+    "rule": "B2n3-k4cejz5ek6-e7/S3-jky4-cjnwz5cr678"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/oblique-frontend-rro.rle",
+    "rule": "B2ce3aiy4a6i/S2aei3-ac4-ntyz5nr6e7c"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/p17490.rle",
+    "rule": "B3-kqry4-nqt5-aceq6-ae7c/S2cek3acijr4cnqtwz5aj6an78"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/power-of-two-extensible-oscillators.rle",
+    "rule": "B2e3a4w/S1c3a4q"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/rro-interactions-and-glider-gun.rle",
+    "rule": "B36ce7c/S23-y"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/rro-p420.rle",
+    "rule": "B2n3-kq4ejz5eky6-en78/S2n3-jk4-cjnwy5cey678History"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/two-cell-p195.rle",
+    "rule": "B2-ck3-acij4-acqy5-aik6-ae7c8/S01e2n3cr4aceqt5einq6c7e8"
+  },
+  {
+    "file": "Non-Totalistic/Oscillators/two-cell-p410.rle",
+    "rule": "B2aei3-aijy4-actyz5cjny6-en7c8/S01e3r4acejtw5einy6cn7e8"
+  },
+  {
+    "file": "Non-Totalistic/p532-checkerboard-puffer.rle",
+    "rule": "B2ck3ai4-ejnqr5-cjkq6cn7/S1e2ack3acn4-iqrt5ckn6ek"
+  },
+  {
+    "file": "Non-Totalistic/rectangle-with-crystallographic-defect.rle",
+    "rule": "B2e3-nqry4ejkry5ck6cn/S2aik3aen4jwz6c7c8"
+  },
+  {
+    "file": "Non-Totalistic/reflectorless-rotating-oscillator-puffer.rle",
+    "rule": "B3-ej6e/S234i"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/branching-triangles.rle",
+    "rule": "B3aijr4ekz5er/S2-ci3-acy4einrtz5n6c7"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/chaotic-1d-replicator.rle",
+    "rule": "B2ei3aein4e5e/S1e2aek3-cein4ikz"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/chaotic-2d-replicator-q1.rle",
+    "rule": "B2-ek/S"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/chaotic-2d-replicator-q2.rle",
+    "rule": "B3ai4ct5aj7c8/S1e2eik3ikry4i8"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/chaotic-2d-replicator-r1.rle",
+    "rule": "B35a6ae78/S23"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/chaotic-2d-replicator-r2.rle",
+    "rule": "B2ik3aeikr4ceijqry78/S23-a4city78"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/double-sierpinski-builder.rle",
+    "rule": "B3/S2-k34k6c"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/fading-plus-shapes.rle",
+    "rule": "B2e3aij4aceknq5-e678/S1c3ajkn4acknqyz5-c6-ce7e8"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/flying-sierpinski-triangles.rle",
+    "rule": "B3ai4kqy56i8/S2-ci3-ek4an5i6c"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/fractal-envelope.rle",
+    "rule": "B2n3acijr4cijt5r6i8/S2aek3ijnqr4ei5-ckqy6eHistory"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/fractal-making-replicator.rle",
+    "rule": "B2kn3-nq5y6i7/S23-aeny4ciknqtz"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/glider-emitting-linear-replicator.rle",
+    "rule": "B35qy6a7e/S23-ey4et5e6c"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/irregular-triangular-replicator.rle",
+    "rule": "B2e3ijn6n/S1c2cek3n"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/lightspeed-rule-150-replicator.rle",
+    "rule": "B2a/S1e3eiy5i"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/linear-replicator-with-replicating-strings.rle",
+    "rule": "B3ai45i6n/S2-k3-a46c7c"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/looping-bee.rle",
+    "rule": "B3-c5k/S2-i3-acky4iz"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/one-and-a-half-fractal.rle",
+    "rule": "B2en3ijn4cenrz5-aekr6kn7e/S1c2-ai3-ejny4-ejrw5ejnqy6ek78"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/partial-fractal-tracer.rle",
+    "rule": "B2n3acijr4ijqt5ry6i7e8/S2aek3ijnqr4cei5eijnr6-ac7e"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/polyglot-replicator.rle",
+    "rule": "B2k3aiq4ej5i/S2aek3ijnqr4i5r"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/quadraticish-ruler.rle",
+    "rule": "B2a3i4i/S1e2i3e5i6i7e8"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/quadratic-replicator-produces-gliders.rle",
+    "rule": "B34c6i8/S2-in3-a4iqy5ai6e"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/quadratic-replicator-puffer.rle",
+    "rule": "B2a3ir5aik7e/S2k4z"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/replicator-blooming-spaceships.rle",
+    "rule": "B3-ky8/S2-in3-acy4iqtz5r6a7e"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/rhombic-ruler-resembling-replicator.rle",
+    "rule": "B2e3ei4itz5akry6ci/S1c2ac3ajy4in6aen8"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/rule-110-replicator.rle",
+    "rule": "B2ei3aci4aei5kqr7e/S01c2-kn3ijry4citwy5aeiq"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/rule-30-replicator-p2.rle",
+    "rule": "B2ae3aijr4n5i/S2ik6c"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/rule-30-replicator-p3.rle",
+    "rule": "B2aei3aei4rtyz5e7e/S2k3en4ait"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/rulerish-replicator.rle",
+    "rule": "B1e2e3j4ejtw5c6cn7c/S2n3kn4cnq5jk6e"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/Sierpinski-builder.rle",
+    "rule": "B3_S23-a4ei6"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/slant-sierpinski-generator.rle",
+    "rule": "B3/S2aei34iq5i6c"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/smaller-sqrt-replicator.rle",
+    "rule": "B2a3eny4at/S01c2ci3i4e5e"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/space-filling-line-triangle-replicator.rle",
+    "rule": "B2a3ir4i5aik7e/S2k3y4z"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/space-filling-Sierpinski-triangle-replicator.rle",
+    "rule": "B1e2i3a4i5eiq6i/S2a3eiq4inr"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/spaceship-producing-quadratic-replicator.rle",
+    "rule": "B2e3i4a6i/S1c2-an3i"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/thickening-replicator.rle",
+    "rule": "B34a/S3a4ar5-qy6-ik7c8"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/three-way-replicator.rle",
+    "rule": "B2a3iry4y5aiky7e/S2k4cz"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/triangular-replicator.rle",
+    "rule": "B3aijr4ciq7c/S2-i3-a4i5q"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/wave-producing-replicator.rle",
+    "rule": "B35i/S235e6c"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/waves-triangle.rle",
+    "rule": "B2k3ai4irw7e/S2aek3ijnqr4i"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/weird-replicator-generator.rle",
+    "rule": "B2e3-ajnr4cjry5cky/S1c2-ik3ay4ace6-ei"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/whitespace-adjustable-replicators.rle",
+    "rule": "B3aeiy4eqrty5cijn6ck7c8/S2-i3acein4cejkq5ir6cei7c8"
+  },
+  {
+    "file": "Non-Totalistic/Replicators/whitespace-quadratic-replicator.rle",
+    "rule": "B3ai4ciw5aceqr6ck7/S3-kqr4ceq5eikq6-an7c8"
+  },
+  {
+    "file": "Non-Totalistic/self-similar-radial-pattern-generator.rle",
+    "rule": "B2ce3ce4e6c/S01c2i3ciy4ct5ey6i7e8"
+  },
+  {
+    "file": "Non-Totalistic/slow-expanding-box.rle",
+    "rule": "B2ac3q4art5nqr/S3q4aeijkrt5cjnq7c8"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/16engine-74,46c378-spaceship.rle",
+    "rule": "B3-kq6cn8/S2-i3-a4ciyz8"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/adjustable-slope-spaceships.rle",
+    "rule": "B2ce3cen4ekt6kn/S01c2ae4cknr5akn"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/b2ein-spaceships-and-rakes.rle",
+    "rule": "B2ein3cijn4cnrwy5cnq6e/S1c2-ai3acny4anqy5c6ek8"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/c2-p146808-orthogonal-spaceship.rle",
+    "rule": "B2-an3-eiry4et5eijn6-in/S1c2n3ey4ejtwz5eijnq6-n78"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/goldilocks.rle",
+    "rule": "B2ekn3eiq4ajr5aq/S02ack3ckny4acnz5ceijk6aci7"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/hive-spaceship-collection.rle",
+    "rule": "B3-ry4ckn/S2-in3-cjn4it5aiky6-a7e8"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/ironic-spaceship.rle",
+    "rule": "B36-in7e/S23"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/justfriends-spaceships.rle",
+    "rule": "B2-a/S12"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/omosso-p79576-spaceship.rle",
+    "rule": "B2k3acijr4ijqy6i7c/S2aek3ijnqr4it5n"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/p42-knightship.rle",
+    "rule": "B37/S2-i34q"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/pondpuffer-spaceship.rle",
+    "rule": "B37/S2-i34q"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/rebellious-lwss.rle",
+    "rule": "B3/S23-ijn4a"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/single-cell-slow-ship.rle",
+    "rule": "MAPhhPAmAASJAQAQgAACQCAAAEAAACAABEACAAEAAAAAAAAAQAAEAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/smos-predecessor.rle",
+    "rule": "B2k3-ejny4knqtw5cjny6en7c/S01e2aen3ijnry4ikqtyz5-cekr6ckn7c"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/spaghetti2-spaceship-collection.rle",
+    "rule": "B2cei3ary4aeiry5any/S2-c3-inq4ikry5eijr6i"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/sparse-c7.rle",
+    "rule": "B2ce/S0"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/thighlife-replicator-based-spaceships.rle",
+    "rule": "B36/S2-i34q"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/tlife-8c282-spaceship.rle",
+    "rule": "B3/S2-i34q"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/tubular-geminoid.rle",
+    "rule": "B2c3aeij4krtyz5cij6-ak7/S2-ik3-aek4aeiknw5a6ikn7"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/whiteboard-17c2415-spaceship.rle",
+    "rule": "B2ce3-cinq4iqrt5-cij6-ci78/S1c2cik3anry4-acrwy5-ekr6-i78"
+  },
+  {
+    "file": "Non-Totalistic/Spaceships/whitespace-1176c4704o-spaceship-predecessor.rle",
+    "rule": "B3ai4ciw5aceqr6ck78/S3-kqr4ceq5eikq6-an7c8"
+  },
+  {
+    "file": "Non-Totalistic/strange-x.rle",
+    "rule": "B2cin3aer4eijqr5i6-ak7c8/S01c2cn3k4kqtwy5ajky6ei78"
+  },
+  {
+    "file": "Non-Totalistic/sweet-revenge.rle",
+    "rule": "B2cin3aejkq4j5-eknr6k7c/S12cei3-aciy4aiknqrz5cq6a7e"
+  },
+  {
+    "file": "Non-Totalistic/temporary-superbreeder.rle",
+    "rule": "B2k3/S23-a4eitz"
+  },
+  {
+    "file": "Non-Totalistic/Unusual-Growth-Rates/cross-puffer.rle",
+    "rule": "B2ci3ae4e/S1c2i3y4et5e"
+  },
+  {
+    "file": "Non-Totalistic/Unusual-Growth-Rates/whitespace-puffer.rle",
+    "rule": "B2i3-cejk4ceky5ci6c7c/S3acein4etyz5i6cei78"
+  },
+  {
+    "file": "Non-Totalistic/w110-rosary-example.rle",
+    "rule": "B3aeiy4cwz5acry/S2-in3-ky4ijrw5aci6ik"
+  },
+  {
+    "file": "Non-Totalistic/whitespace-breeder.rle",
+    "rule": "B2i3air4citz5cek6ci7/S1e2n3-jkqr4eknwy5eiqry6cei7c8"
+  },
+  {
+    "file": "Non-Totalistic/wickstretcher-explosion.rle",
+    "rule": "B2n3aikq/S2-i3-a4i"
+  },
+  {
+    "file": "Other-Rules/calcyman-primer.rle",
+    "rule": "Primer"
+  },
+  {
+    "file": "Other-Rules/circle-generator.rle",
+    "rule": "Circle"
+  },
+  {
+    "file": "Other-Rules/Ed-rep.rle",
+    "rule": "Ed-rep"
+  },
+  {
+    "file": "Other-Rules/golly-ants.rle",
+    "rule": "Langtons-Ant"
+  },
+  {
+    "file": "Other-Rules/HPP-demo.rle",
+    "rule": "HPP"
+  },
+  {
+    "file": "Other-Rules/HPP-demo-small.rle",
+    "rule": "HPP"
+  },
+  {
+    "file": "Other-Rules/Langtons-Ant.rle",
+    "rule": "Langtons-Ant"
+  },
+  {
+    "file": "Other-Rules/life-on-the-edge.rle",
+    "rule": "LifeOnTheEdge"
+  },
+  {
+    "file": "Other-Rules/life-on-the-slope.rle",
+    "rule": "LifeOnTheSlope"
+  },
+  {
+    "file": "Other-Rules/smosmosmosmos.rle",
+    "rule": "SMOSMOSMOSMOS_Rule"
+  },
+  {
+    "file": "Other-Rules/so-many-ships-2.rle",
+    "rule": "SoManyShips2"
+  },
+  {
+    "file": "Other-Rules/triangular-replicator-turmite.rle",
+    "rule": "TriRep"
+  },
+  {
+    "file": "Other-Rules/von-neumann-merge.rle",
+    "rule": "B2/S23V"
+  },
+  {
+    "file": "Other-Rules/wolfram22.mc",
+    "rule": "w22"
+  },
+  {
+    "file": "Patersons-Worms/worm-1040512.rle",
+    "rule": "Worm-1040512"
+  },
+  {
+    "file": "Patersons-Worms/worm-1042015.rle",
+    "rule": "Worm-1042015"
+  },
+  {
+    "file": "Patersons-Worms/worm-1042020.rle",
+    "rule": "Worm-1042020"
+  },
+  {
+    "file": "Patersons-Worms/worm-1252121.rle",
+    "rule": "Worm-1252121"
+  },
+  {
+    "file": "Patersons-Worms/worm-1525115.rle",
+    "rule": "Worm-1525115"
+  },
+  {
+    "file": "Self-Rep/Banks/Banks-I-demo.rle",
+    "rule": "Banks-I"
+  },
+  {
+    "file": "Self-Rep/Banks/Banks-II-demo.rle",
+    "rule": "Banks-II"
+  },
+  {
+    "file": "Self-Rep/Banks/Banks-III-demo.rle",
+    "rule": "Banks-III"
+  },
+  {
+    "file": "Self-Rep/Banks/Banks-IV-constructor.rle",
+    "rule": "Banks-IV"
+  },
+  {
+    "file": "Self-Rep/Banks/Banks-IV-demo.rle",
+    "rule": "Banks-IV"
+  },
+  {
+    "file": "Self-Rep/Codd/clocking-on-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/coders-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/construction-arm-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/crossover-unidir-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/decoder-4bit-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/echo-discriminator.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/echo-switch-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/extend-coder-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/gates-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/golly-constructor.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/Goucher-replicator.mc",
+    "rule": "Codd2"
+  },
+  {
+    "file": "Self-Rep/Codd/repeater-emitter-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/sensing-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/sheathing-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/sheathing-problems.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/signals-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Codd/tape-reader-demo.rle",
+    "rule": "Codd"
+  },
+  {
+    "file": "Self-Rep/Devore/crossover.rle",
+    "rule": "Devore"
+  },
+  {
+    "file": "Self-Rep/Devore/Devore-body.rle",
+    "rule": "Devore"
+  },
+  {
+    "file": "Self-Rep/Devore/Devore-rep.rle",
+    "rule": "Devore"
+  },
+  {
+    "file": "Self-Rep/Devore/discriminator.rle",
+    "rule": "Devore"
+  },
+  {
+    "file": "Self-Rep/JvN/Boustrophedon-replicator.rle",
+    "rule": "Hutton32"
+  },
+  {
+    "file": "Self-Rep/JvN/cell-coders-demo.rle",
+    "rule": "JvN29"
+  },
+  {
+    "file": "Self-Rep/JvN/codon4-auto-retract.rle",
+    "rule": "Nobili32"
+  },
+  {
+    "file": "Self-Rep/JvN/codon5-auto-retract.rle",
+    "rule": "Nobili32"
+  },
+  {
+    "file": "Self-Rep/JvN/construction-arm-demo.rle",
+    "rule": "Nobili32"
+  },
+  {
+    "file": "Self-Rep/JvN/counter-demo.rle",
+    "rule": "JvN29"
+  },
+  {
+    "file": "Self-Rep/JvN/golly-constructor.rle",
+    "rule": "Hutton32"
+  },
+  {
+    "file": "Self-Rep/JvN/Hutton-replicator.rle",
+    "rule": "Hutton32"
+  },
+  {
+    "file": "Self-Rep/JvN/JvN-loop-replicator.rle",
+    "rule": "JvN29"
+  },
+  {
+    "file": "Self-Rep/JvN/N-compressed-replicator.rle",
+    "rule": "Nobili32"
+  },
+  {
+    "file": "Self-Rep/JvN/NP-mutation.rle",
+    "rule": "Nobili32"
+  },
+  {
+    "file": "Self-Rep/JvN/NP-replicator.rle",
+    "rule": "Nobili32"
+  },
+  {
+    "file": "Self-Rep/JvN/partial-constructor.mc",
+    "rule": "JvN29"
+  },
+  {
+    "file": "Self-Rep/JvN/read-arm-demo.rle",
+    "rule": "JvN29"
+  },
+  {
+    "file": "Self-Rep/JvN/small-JvN-self-replicator.rle",
+    "rule": "JvN29"
+  },
+  {
+    "file": "Self-Rep/JvN/sphinx.mc",
+    "rule": "JvN29"
+  },
+  {
+    "file": "Self-Rep/JvN/sphinx-midpoint.mc",
+    "rule": "JvN29"
+  },
+  {
+    "file": "Self-Rep/JvN/sphinx-spark.mc",
+    "rule": "JvN29"
+  },
+  {
+    "file": "Super/art-on-a-torus-LifeSuper.rle",
+    "rule": "LifeSuper:T312,156"
+  },
+  {
+    "file": "Super/crystal-cathedral-09-novelty.rle",
+    "rule": "LifeSuper"
+  },
+  {
+    "file": "Super/exploratorium.rle",
+    "rule": "LifeSuper"
+  },
+  {
+    "file": "Super/p108-2ship-gun-MirrorTLifeSuper.rle",
+    "rule": "B3-kq4j/S2-i34qSuper"
+  },
+  {
+    "file": "Super/pure-nonfiller-LifeHistory.rle",
+    "rule": "LifeHistory"
+  },
+  {
+    "file": "Super/sample-wick-construction-LifeSuper.rle",
+    "rule": "LifeSuper"
+  },
+  {
+    "file": "Turmites/AlienCounter.rle",
+    "rule": "AbsoluteTurmite_0N21S10E00S01W11N2"
+  },
+  {
+    "file": "Turmites/ComputerArt.rle",
+    "rule": "Turmite_180121020081"
+  },
+  {
+    "file": "Turmites/Extinction.rle",
+    "rule": "Turmite_1202822111121111812a0281282"
+  },
+  {
+    "file": "Turmites/FibonacciSpiral.rle",
+    "rule": "Turmite_181181121010"
+  },
+  {
+    "file": "Turmites/Highway2074575.rle",
+    "rule": "AbsoluteTurmite_1N10S11S30N21W01N11S20E1"
+  },
+  {
+    "file": "Turmites/LangtonsAnt_LLRR.rle",
+    "rule": "LangtonsAnt_LLRR"
+  },
+  {
+    "file": "Turmites/Perfectionist.rle",
+    "rule": "AbsoluteTurmite_0S11W11E21S21W00N0"
+  },
+  {
+    "file": "Turmites/TriangularAnt_period92.rle",
+    "rule": "TriTurmite_120010"
+  },
+  {
+    "file": "Turmites/TriangularLangtonsAnt.rle",
+    "rule": "TriTurmite_120010"
+  },
+  {
+    "file": "Turmites/WormTrails.rle",
+    "rule": "Turmite_121181121020"
+  }
+]
